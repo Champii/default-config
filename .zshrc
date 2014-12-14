@@ -93,6 +93,7 @@ alias sfeature="git flow feature start"
 alias ffeature="git flow feature finish"
 alias srelease="git flow release start"
 alias frelease="git flow release finish"
+alias pfeature="git flow feature publish"
 
 # screen
 alias detach="screen -d -m -S"
