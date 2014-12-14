@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PULL="/data/prog/default-config/configPull.sh"
-PUSH="/data/prog/default-config/configPush.sh"
+PULL="/home/champii/prog/default-config/configPull.sh"
+PUSH="/home/champii/prog/default-config/configPush.sh"
 
 chmod +x $PULL
 chmod +x $PUSH
