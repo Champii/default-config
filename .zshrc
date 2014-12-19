@@ -88,6 +88,8 @@ alias search="apt-cache search"
 alias remove="sudo apt-get remove"
 alias war3="/windows/Users/Champii/Documents/Warcraft\ III/Frozen\ Throne.exe"
 
+alias mocha="mocha --compilers coffee:coffee-script/register"
+
 # git flow
 alias sfeature="git flow feature start"
 alias ffeature="git flow feature finish"
