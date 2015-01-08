@@ -107,4 +107,4 @@ alias screenls="screen -ls"
 alias Modulator="coffee /data/prog/js/Modulator/scripts/index.coffee"
 
 # default-config
-configPull
+#configPull
