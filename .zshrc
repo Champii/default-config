@@ -86,8 +86,6 @@ alias upgrade="sudo apt-get -y upgrade"
 alias dist-upgrade="sudo apt-get dist-upgrade"
 alias search="apt-cache search"
 alias remove="sudo apt-get remove"
-alias war3="/windows/Users/Champii/Documents/Warcraft\ III/Frozen\ Throne.exe"
-alias count="function _count {echo \"$(cat `find $1 -name '*.jade'` | wc -l) + $(cat `find $1 -name '*.coffee'` | wc -l)\" | bc}; _count"
 alias mocha="mocha --compilers coffee:coffee-script/register"
 alias test="echo $PWD"
 
