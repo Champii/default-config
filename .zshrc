@@ -101,6 +101,8 @@ alias gfeature="git flow feature pull"
 alias detach="screen -d -m -S"
 alias attach="screen -r"
 alias screenls="screen -ls"
+alias restart="function _restart() { sudo service $1 restart;  }; _restart "
+
 
 # Modulator
 alias Modulator="coffee /data/prog/js/Modulator/scripts/index.coffee"
